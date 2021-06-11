@@ -1,6 +1,7 @@
-package Server;/*в данном проекте реализованы две задания
+/*в данном проекте реализованы две задания
 по теме Клиент-серверное приложение
  */
+package Server;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
